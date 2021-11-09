@@ -20,7 +20,7 @@ const renderBody = (item, index) => (
         <td>{item.name}</td>
         <td>{item.quantidade}</td>
         <td>{item.medida}</td>
-        <td>{item.preco}</td>
+        <td>{item.price}</td>
     </tr>
 )
 const Products = () => {
