@@ -1,4 +1,4 @@
-# Dashboard Admin com Múltiplos Temas
+# template for panel of administrator
 ![img](./alexandre-orm.png)
 
 ## Requisitos
